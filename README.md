@@ -10,4 +10,5 @@ Key Findings
 - With the almost 200% increase in attempts we see the players are making roughly three times the amount of shots than they were 20 years ago, which shows they are shooting alot more efficiently over the years.
 
   [3 point trends by graphs] (https://i.imgur.com/UcpU1Sz.png)
+  
   [NBA 3 Point Shooting Percentages] (https://imgur.com/U9IU2sA)
